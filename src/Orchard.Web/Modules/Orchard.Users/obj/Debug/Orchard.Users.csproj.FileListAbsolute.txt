@@ -46,3 +46,4 @@ D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Users\bin
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Users\bin\Orchard.Tokens.pdb
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Users\obj\Debug\Orchard.Users.dll
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Users\obj\Debug\Orchard.Users.pdb
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Users\obj\Debug\Orchard.Users.csprojResolveAssemblyReference.cache

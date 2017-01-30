@@ -45,6 +45,5 @@ D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Roles\bin
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Roles\bin\System.Web.WebPages.Deployment.xml
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Roles\bin\System.Web.WebPages.Razor.xml
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Roles\bin\Orchard.Tokens.pdb
-D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Roles\obj\Debug\Orchard.Roles.csprojResolveAssemblyReference.cache
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Roles\obj\Debug\Orchard.Roles.dll
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Roles\obj\Debug\Orchard.Roles.pdb

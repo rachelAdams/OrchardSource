@@ -37,6 +37,5 @@ D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Condition
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Conditions\bin\System.Web.WebPages.xml
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Conditions\bin\System.Web.WebPages.Deployment.xml
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Conditions\bin\System.Web.WebPages.Razor.xml
-D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Conditions\obj\Debug\Orchard.Conditions.csprojResolveAssemblyReference.cache
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Conditions\obj\Debug\Orchard.Conditions.dll
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Conditions\obj\Debug\Orchard.Conditions.pdb

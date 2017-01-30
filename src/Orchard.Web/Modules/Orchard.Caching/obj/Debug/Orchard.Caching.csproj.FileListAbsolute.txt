@@ -34,3 +34,4 @@ D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Caching\b
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Caching\bin\System.Web.WebPages.Razor.xml
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Caching\obj\Debug\Orchard.Caching.dll
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Caching\obj\Debug\Orchard.Caching.pdb
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Caching\obj\Debug\Orchard.Caching.csprojResolveAssemblyReference.cache

@@ -45,6 +45,5 @@ D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Rules\bin
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Rules\bin\System.Web.WebPages.xml
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Rules\bin\System.Web.WebPages.Deployment.xml
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Rules\bin\System.Web.WebPages.Razor.xml
-D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Rules\obj\Debug\Orchard.Rules.csprojResolveAssemblyReference.cache
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Rules\obj\Debug\Orchard.Rules.dll
 D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Rules\obj\Debug\Orchard.Rules.pdb
