@@ -1,0 +1,10 @@
+D:\GitHub\Orchard.Source\src\Tools\MSBuild.Orchard.Tasks\bin\Debug\MSBuild.Orchard.Tasks.dll
+D:\GitHub\Orchard.Source\src\Tools\MSBuild.Orchard.Tasks\bin\Debug\MSBuild.Orchard.Tasks.pdb
+D:\GitHub\Orchard.Source\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.csprojResolveAssemblyReference.cache
+D:\GitHub\Orchard.Source\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.dll
+D:\GitHub\Orchard.Source\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.pdb
+D:\GitHub\Orchard.Source\OrchardSource\src\Tools\MSBuild.Orchard.Tasks\bin\Debug\MSBuild.Orchard.Tasks.dll
+D:\GitHub\Orchard.Source\OrchardSource\src\Tools\MSBuild.Orchard.Tasks\bin\Debug\MSBuild.Orchard.Tasks.pdb
+D:\GitHub\Orchard.Source\OrchardSource\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.csprojResolveAssemblyReference.cache
+D:\GitHub\Orchard.Source\OrchardSource\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.dll
+D:\GitHub\Orchard.Source\OrchardSource\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.pdb

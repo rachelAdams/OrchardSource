@@ -1,0 +1,10 @@
+D:\GitHub\Orchard.Source\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.dll
+D:\GitHub\Orchard.Source\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.pdb
+D:\GitHub\Orchard.Source\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
+D:\GitHub\Orchard.Source\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.dll
+D:\GitHub\Orchard.Source\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.pdb
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.dll
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.pdb
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.dll
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.pdb

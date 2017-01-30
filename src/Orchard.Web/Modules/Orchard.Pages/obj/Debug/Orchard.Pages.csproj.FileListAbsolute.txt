@@ -1,0 +1,16 @@
+D:\GitHub\Orchard.Source\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll.config
+D:\GitHub\Orchard.Source\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll
+D:\GitHub\Orchard.Source\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.pdb
+D:\GitHub\Orchard.Source\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.dll
+D:\GitHub\Orchard.Source\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.pdb
+D:\GitHub\Orchard.Source\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.csprojResolveAssemblyReference.cache
+D:\GitHub\Orchard.Source\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.dll
+D:\GitHub\Orchard.Source\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.pdb
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll.config
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.pdb
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.dll
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.pdb
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.csprojResolveAssemblyReference.cache
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.dll
+D:\GitHub\Orchard.Source\OrchardSource\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.pdb
